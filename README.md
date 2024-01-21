@@ -18,4 +18,4 @@ When creating this account I three main objectives in mind:
 3. Helping other programmers around the world
   - This is one of my main motivations to creating the project repositories, not that my code is the best out there, but I'm sure that someone out there is facing the same problems I've already faced, just like others had before me, so I hope that with the code I've written someone can actually learn and improve
 > [!IMPORTANT]
-> Copying code isn't neither correct nor a good way to improve, instead, try understanding the code and reading documentation and then adapting it for what you need!
+> Copying code is neither correct nor a good way to improve, instead, try understanding the code and reading documentation and then adapting it for what you need!

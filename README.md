@@ -12,7 +12,7 @@ My main recommendations are:
 - [Feup Projects](https://github.com/HugoNogueira05/FEUP-Projects)
   - Main repository where I intend to add all the projects that I develop over the course of my academic journey, all these projects will have the rightfull documentation and are all available for public use unless explicitly stated otherwise, I have tried to make the code as readable as possible to help those who like me, struggled in the beginning of their coding journey!
 ## My main objectives with this account:
-When creating this account I three main objectives in mind:
+When creating this account I had three main objectives in mind:
 1. Having a source control tool to help transport code between devices and prevent me from ruining versions
 2. Having a portfolio for eventual job applications I might send in the future
 3. Helping other programmers around the world

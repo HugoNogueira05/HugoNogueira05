@@ -1,7 +1,7 @@
 # Who am I?
 Hello! My name is Hugo Nogueira and I'm a computer engineering student at FEUP.
 I'm a tech fanatic and a passionate programmer.
-### My socials:
+### Contact me:
 - [LinkedIn](https://www.linkedin.com/in/hugo-nogueira555)
 - Email: hugonogueira055@gmail.com
 ## What am I doing here?
